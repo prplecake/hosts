@@ -3,9 +3,12 @@
 # ===============================================================
 
 
+0.0.0.0 moatads.com
 0.0.0.0 px.moatads.com
 0.0.0.0 cdn-magiclinks.trackonomics.net
 0.0.0.0 d24zb9qreavi2u.cloudfront.net
+0.0.0.0 globalimpactadvertising.com
+0.0.0.0 uninterestedquarter.com
 
 ## Flipp.com
 0.0.0.0 p.flipp.com
@@ -17,3 +20,6 @@
 0.0.0.0 images.taboola.com
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 pips.taboola.com
+0.0.0.0 pm-widget.taboola.com
+0.0.0.0 tls13.taboola.map.fastly.net
+0.0.0.0 dualstack.tls13.taboola.map.fastly.net
